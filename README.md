@@ -3,7 +3,7 @@ This code implements algorithms described in "Anomaly Detection and Change Detec
 
 
 ## Jupyter Notebooks
-- [Chapter 3. Hotelling's T2](https://github.com/TakuyaMurata/Pattern-Recognition-and-Machine-Learning/blob/master/Chapter%203%20:%20bayesian%20linear%20regression.ipynb)
+- [Chapter 3. Hotelling's T2](https://github.com/TakuyaMurata/Anomaly-Detection-and-Change-Detection/blob/master/Chapter%202%20Hotelling's%20T2.ipynb)
 
 
 ## License
