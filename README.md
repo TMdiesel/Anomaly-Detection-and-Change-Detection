@@ -3,8 +3,8 @@ This code implements algorithms described in "Anomaly Detection and Change Detec
 
 
 ## Jupyter Notebooks
-- [Chapter 3. Hotelling's T2](https://github.com/TakuyaMurata/Anomaly-Detection-and-Change-Detection/blob/master/Chapter%202%20Hotelling's%20T2.ipynb)
-
+- [Chapter 2. Hotelling's T2](https://github.com/TakuyaMurata/Anomaly-Detection-and-Change-Detection/blob/master/Chapter%202%20Hotelling's%20T2.ipynb)
+- [Chapter 3. Naive Bayes](https://github.com/TakuyaMurata/Anomaly-Detection-and-Change-Detection/blob/master/Chapter%203%20Naive%20Bayes.ipynb)
 
 ## License
 MIT
